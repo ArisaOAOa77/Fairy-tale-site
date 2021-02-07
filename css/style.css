@@ -904,7 +904,7 @@ canvas {
   .momotarou-text-bk-mobile, .dog-text-bk-mobile, .monkey-text-bk-mobile,
   .pheasant-text-bk-mobile {
     position: relative;
-    top: -320px;
+    top: -280px;
   }
   .download_contents {
     max-width: 80%;
